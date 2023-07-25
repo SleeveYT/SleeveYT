@@ -7,3 +7,4 @@ Hi im a fivem developer and a content creator building resources for your fivem 
 discord is sleeveyt
 kick is https://kick.com/sleeveyt
 server i play on https://discord.gg/prodigyrp
+if you look at my repositorys i have made cars that have realistic handling for fivem servers
